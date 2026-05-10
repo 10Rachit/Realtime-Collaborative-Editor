@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin:0;font-size:3rem;letter-spacing:-0.02em;">SCRIBE</h1>
+  <h1 style="margin:0;font-size:3rem;letter-spacing:-0.02em;">Realtime-Collaborative-Editor</h1>
   <p style="margin:8px 0 0;font-size:1.05rem;opacity:0.85;">
     Collaborative, real‑time Markdown note taking app with CRDT‑backed syncing and a directory‑based vault system
   </p>
