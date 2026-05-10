@@ -48,5 +48,4 @@ ___
 #### Example Vault view
 ![Vault](./public/Vault.png)
 
-#### Active Users  view
-![Active Users](./public/ActiveUsers.png)
+
